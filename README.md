@@ -1,3 +1,9 @@
+# Updates
+
+The code updated to work with latest gensim and deepwalk (at the time of writing: gensim-3.4.0, deepwalk-1.0.3) versions.
+
+The code works with node2vec and line models but currently does not work with deepwalk.
+
 # HARP
 Code for the AAAI 2018 paper "HARP: Hierarchical Representation Learning for Networks".
 HARP is a meta-strategy to improve several state-of-the-art network embedding algorithms, such as *DeepWalk*, *LINE* and *Node2vec*.
